@@ -233,10 +233,10 @@ We welcome contributions! Here's how you can help:
 
 <div align="center">
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/tic-tac-toe-react?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/tic-tac-toe-react?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/tic-tac-toe-react)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/tic-tac-toe-react)
+![GitHub stars](https://img.shields.io/github/stars/ofsaksham/tic-tac-toe-react?style=social)
+![GitHub forks](https://img.shields.io/github/forks/ofsaksham/tic-tac-toe-react?style=social)
+![GitHub issues](https://img.shields.io/github/issues/ofsaksham/tic-tac-toe-react)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/ofsaksham/tic-tac-toe-react)
 
 </div>
 
