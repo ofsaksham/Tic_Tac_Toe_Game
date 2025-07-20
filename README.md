@@ -9,7 +9,7 @@
 
 A modern, interactive Tic-Tac-Toe game built with React featuring stunning animations, glass morphism design, and enhanced user experience.
 
-[🚀 Live Demo](#) • [📖 Documentation](#-key-features-explained) • [🎯 How to Play](#-how-to-play)
+[🚀 Live Demo](https://ofsaksham.github.io/Tic_Tac_Toe_Game) • [📖 Documentation](#-key-features-explained) • [🎯 How to Play](#-how-to-play)
 
 </div>
 
@@ -69,7 +69,7 @@ A modern, interactive Tic-Tac-Toe game built with React featuring stunning anima
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/tic-tac-toe-react.git
+   git clone https://github.com/ofsaksham/tic-tac-toe-react.git
    cd tic-tac-toe-react
    ```
 
@@ -116,11 +116,11 @@ src/
 │   ├── GameBoard.jsx      # 3x3 grid with interactive squares
 │   ├── Player.jsx         # Player info with name editing
 │   ├── GameOver.jsx       # Cinematic game over modal
-│   └── Log.jsx           # Move history with timestamps
-├── App.jsx               # Main app with game logic
+│   └── Log.jsx            # Move history with timestamps
+├── App.jsx                # Main app with game logic
 ├── winning-combinations.js # 8 winning pattern definitions
-├── index.jsx             # React app entry point
-└── index.css             # Stunning animations & styles
+├── index.jsx              # React app entry point
+└── index.css              # Stunning animations & styles
 ```
 
 ---
@@ -157,12 +157,12 @@ const activePlayer = deriveActivePlayer(gameTurns);
 
 ## 🛠️ Available Scripts
 
-| Command | Description |
-|---------|-------------|
-| `npm run dev` | Start development server with hot reload |
-| `npm run build` | Build optimized production version |
-| `npm run preview` | Preview production build locally |
-| `npm run lint` | Run ESLint for code quality checks |
+| Command         | Description                            |
+|----------------|----------------------------------------|
+| `npm run dev`  | Start development server with hot reload |
+| `npm run build`| Build optimized production version     |
+| `npm run preview` | Preview production build locally    |
+| `npm run lint` | Run ESLint for code quality checks     |
 
 ---
 
@@ -229,31 +229,10 @@ We welcome contributions! Here's how you can help:
 
 ---
 
-## 📊 Project Stats
-
-<div align="center">
-
-![GitHub stars](https://img.shields.io/github/stars/yourusername/tic-tac-toe-react?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/tic-tac-toe-react?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/tic-tac-toe-react)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/tic-tac-toe-react)
-
-</div>
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-**Created with ❤️ for the React community**
-
----
-
 <div align="center">
 
 **🎮 Ready to play? Start the game now!**
 
 [⬆️ Back to Top](#-tic-tac-toe-game)
 
-</div> 
+</div>
