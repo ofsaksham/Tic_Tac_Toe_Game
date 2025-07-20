@@ -229,27 +229,6 @@ We welcome contributions! Here's how you can help:
 
 ---
 
-## 📊 Project Stats
-
-<div align="center">
-
-![GitHub stars](https://img.shields.io/github/stars/ofsaksham/tic-tac-toe-react?style=social)
-![GitHub forks](https://img.shields.io/github/forks/ofsaksham/tic-tac-toe-react?style=social)
-![GitHub issues](https://img.shields.io/github/issues/ofsaksham/tic-tac-toe-react)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/ofsaksham/tic-tac-toe-react)
-
-</div>
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License © 2025 Saksham Kaushik - see the [LICENSE](LICENSE) file for full details.
-
-**Created with ❤️ for the React community**
-
----
-
 <div align="center">
 
 **🎮 Ready to play? Start the game now!**
