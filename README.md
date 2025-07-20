@@ -69,7 +69,7 @@ A modern, interactive Tic-Tac-Toe game built with React featuring stunning anima
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/tic-tac-toe-react.git
+   git clone https://github.com/ofsaksham/tic-tac-toe-react.git
    cd tic-tac-toe-react
    ```
 
@@ -116,11 +116,11 @@ src/
 │   ├── GameBoard.jsx      # 3x3 grid with interactive squares
 │   ├── Player.jsx         # Player info with name editing
 │   ├── GameOver.jsx       # Cinematic game over modal
-│   └── Log.jsx           # Move history with timestamps
-├── App.jsx               # Main app with game logic
+│   └── Log.jsx            # Move history with timestamps
+├── App.jsx                # Main app with game logic
 ├── winning-combinations.js # 8 winning pattern definitions
-├── index.jsx             # React app entry point
-└── index.css             # Stunning animations & styles
+├── index.jsx              # React app entry point
+└── index.css              # Stunning animations & styles
 ```
 
 ---
@@ -157,12 +157,12 @@ const activePlayer = deriveActivePlayer(gameTurns);
 
 ## 🛠️ Available Scripts
 
-| Command | Description |
-|---------|-------------|
-| `npm run dev` | Start development server with hot reload |
-| `npm run build` | Build optimized production version |
-| `npm run preview` | Preview production build locally |
-| `npm run lint` | Run ESLint for code quality checks |
+| Command         | Description                            |
+|----------------|----------------------------------------|
+| `npm run dev`  | Start development server with hot reload |
+| `npm run build`| Build optimized production version     |
+| `npm run preview` | Preview production build locally    |
+| `npm run lint` | Run ESLint for code quality checks     |
 
 ---
 
@@ -244,7 +244,7 @@ We welcome contributions! Here's how you can help:
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License © 2025 Saksham Kaushik - see the [LICENSE](LICENSE) file for full details.
 
 **Created with ❤️ for the React community**
 
@@ -256,4 +256,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 [⬆️ Back to Top](#-tic-tac-toe-game)
 
-</div> 
+</div>
